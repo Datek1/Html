@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background: darkorange;
+    color: #FFFFFF;
+}
+p{
+    background: darkorange;
+    color: #FFFFFF;
+}
+img{
+    height: 400px;
+    width: 200px;
+}
+h2{
+    text-align: center;
+}
+ul{
+    background: burlywood;
+}
+li{
+    color: indigo;
+}
+a{
+    color: purple;
+}
