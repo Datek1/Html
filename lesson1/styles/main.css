@@ -1,4 +1,4 @@
-h1{
+h1,h2{
     text-align: center;
     background: darkorange;
     color: #FFFFFF;
@@ -11,15 +11,10 @@ img{
     height: 400px;
     width: 200px;
 }
-h2{
-    text-align: center;
-}
 ul{
     background: burlywood;
 }
-li{
+li,a{
     color: indigo;
-}
-a{
-    color: purple;
+    background: burlywood;
 }
