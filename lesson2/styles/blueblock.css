@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    align-items:center;
+}
+.widgets{
+    width: 70%;
+    height: 300px;
+    background: blue;
+}
+.bid{
+    width: 70%;
+    display: flex;
+    column-gap: 30px;
+}
+.box{
+    width: 33%;
+    height: 100px;
+    background: blue;
+}
+.contact{
+    width: 70%;
+    height: 200px;
+    background: blue;
+}
